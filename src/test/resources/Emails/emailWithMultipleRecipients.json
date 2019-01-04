@@ -1,0 +1,29 @@
+{
+  "content": "Brave New World is a dystopian novel written in 1931 by English author Aldous Huxley, and published in 1932. Largely set in a futuristic World State of genetically modified citizens and an intelligence-based social hierarchy, the novel anticipates huge scientific developments in reproductive technology, sleep-learning, psychological manipulation, and classical conditioning that are combined to make a utopian society that goes challenged only by a single outsider. Huxley followed this book with a reassessment in an essay, Brave New World Revisited (1958), and with Island (1962), his final novel.",
+  "subject": "Brave New World",
+  "recipients": [
+    {
+      "name": "Justin",
+      "address": "123 ABC Drive",
+      "email": "jmschneider2462@gmail.com",
+      "phoneNumber": "8031234567"
+    },
+    {
+      "name": "Justin",
+      "address": "123 ABC Drive",
+      "email": "justinms@email.sc.edu",
+      "phoneNumber": "8031234567"
+    },
+    {
+      "name": "Cassidy",
+      "address": "123 ABC Drive",
+      "email": "cassidy.rae.garrick@gmail.com",
+      "phoneNumber": "8031234567"
+    }
+  ],
+  "sender": {
+    "name": "justin",
+    "id": "APP-000",
+    "email": "jmschneider2462@gmail.com"
+  }
+}

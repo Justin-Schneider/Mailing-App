@@ -1,0 +1,15 @@
+{
+  "content": "Brave New World",
+  "recipients": [
+    {
+      "name": "Justin",
+      "address": "123 ABC Drive",
+      "email": "jmschneider2462@gmail.com",
+      "phoneNumber": "+18038602200"
+    }
+  ],
+  "sender": {
+    "name": "justin",
+    "id": "APP-000"
+  }
+}
